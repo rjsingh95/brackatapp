@@ -1,5 +1,5 @@
 # Brackat App
-<img class='header-img' src='https://s3.amazonaws.com/codingwithmitch-static-and-media/media/ForSale/Android+Classifieds+App.png' />
+<img class='header-img' src='https://drive.google.com/open?id=1VIqUI6Rtm_clrpF8wPPjAV5h8sLvb2xx' />
 
 <h1>Android Classifieds App Course</h1>
 <h4>A step-by-step guide to build a fully functional app where users can post items or services for sale.</h4>
